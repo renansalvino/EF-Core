@@ -14,5 +14,7 @@ namespace Senai.Inlock.WebApi.DataBaseFirst.Domain
         public string NomeEstudio { get; set; }
 
         public ICollection<Jogo> Jogo { get; set; }
-    }
+
+        
+}
 }

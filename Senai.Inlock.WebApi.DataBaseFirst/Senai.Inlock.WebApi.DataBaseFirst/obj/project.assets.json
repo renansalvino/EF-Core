@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\36591349880\\.nuget\\packages\\": {},
+    "C:\\Users\\Renan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\36591349880\\Desktop\\Projetos\\Projetos com EN FR\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst.csproj",
+      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Projetos\\EF Core\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst.csproj",
       "projectName": "Senai.Inlock.WebApi.DataBaseFirst",
-      "projectPath": "C:\\Users\\36591349880\\Desktop\\Projetos\\Projetos com EN FR\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst.csproj",
-      "packagesPath": "C:\\Users\\36591349880\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\36591349880\\Desktop\\Projetos\\Projetos com EN FR\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\obj\\",
+      "projectPath": "C:\\Users\\Renan\\Desktop\\Projetos\\EF Core\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst.csproj",
+      "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Renan\\Desktop\\Projetos\\EF Core\\Senai.Inlock.WebApi.DataBaseFirst\\Senai.Inlock.WebApi.DataBaseFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\36591349880\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

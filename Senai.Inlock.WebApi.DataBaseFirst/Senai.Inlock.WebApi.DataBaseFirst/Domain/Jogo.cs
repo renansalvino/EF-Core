@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Senai.Inlock.WebApi.DataBaseFirst.Domain
 {
@@ -13,5 +14,8 @@ namespace Senai.Inlock.WebApi.DataBaseFirst.Domain
         public int? IdEstudio { get; set; }
 
         public Estudio IdEstudioNavigation { get; set; }
+
+        [ForeignKey("Id")]
+        public Estudio estudio { get; set; }
     }
 }
