@@ -1,0 +1,6 @@
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.RazorAssemblyInfo.cache
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.RazorAssemblyInfo.cs
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\Projetos\Projetos com EN FR\CodeFirst\Inlock\Senai.Inlock.WebApi.CodeFirst\Senai.Inlock.WebApi.CodeFirst\obj\Debug\netcoreapp2.1\Senai.Inlock.WebApi.CodeFirst.AssemblyInfo.cs
